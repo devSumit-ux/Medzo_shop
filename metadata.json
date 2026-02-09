@@ -1,0 +1,9 @@
+{
+  "name": "Medzo Shop",
+  "description": "Find and book medicines at nearby pharmacies in India with Medzo Shop. Compare prices, check availability, and pickup in minutes.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
